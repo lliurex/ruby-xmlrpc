@@ -1,5 +1,5 @@
 #!/usr/bin/make -f
-
+export DH_RUBY_IGNORE_TESTS=all
 export GEM2DEB_TEST_RUNNER = --check-dependencies
 
 %:
