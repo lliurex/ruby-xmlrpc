@@ -1,4 +1,4 @@
-ruby-xmlrpc (0.3.0-2) bionic-updates; urgency=medium
+ruby-xmlrpc (0.3.0.1-0+lliurex) bionic; urgency=medium
 
   * Bionic backport
 
